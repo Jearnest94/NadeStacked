@@ -1,0 +1,931 @@
+[
+  {
+    "player": "ALTR_ABDI",
+    "positions": [
+      {
+        "position": [
+          601.9661865234375,
+          -36.03125,
+          180.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 1,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1224.6064453125,
+          -1044.03173828125,
+          56.453125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 2,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          524.3382568359375,
+          -46.30950927734375,
+          152.65475463867188
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 3,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -629.968017578125,
+          -83.74725341796875,
+          171.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 4,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -324.8577880859375,
+          -448.10791015625,
+          42.6401481628418
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 5,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 5,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 5,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -344.30218505859375,
+          -454.21630859375,
+          39.531219482421875
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 6,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 6,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 6,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -766.9555053710938,
+          -117.92425537109375,
+          69.13397979736328
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 7,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -610.4942016601562,
+          -283.40411376953125,
+          56.03128433227539
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 8,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 8,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 8,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -344.76220703125,
+          -735.60400390625,
+          115.03125
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 9,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 9,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 9,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          1176.03173828125,
+          -459.49169921875,
+          49.21576690673828
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 10,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 10,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 10,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -944.8568115234375,
+          -817.2097778320312,
+          34.121551513671875
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 11,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 11,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          },
+          {
+            "round": 11,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1130.48974609375,
+          -1479.4769287109375,
+          -21.95556640625
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 12,
+            "side": "t",
+            "time_label": "1m48s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          580.7750244140625,
+          -62.5350341796875,
+          204.859375
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 1,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1139.454833984375,
+          -1388.2489013671875,
+          -21.3128662109375
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 2,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          510.6340026855469,
+          156.22389221191406,
+          152.65475463867188
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 3,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -629.9649658203125,
+          -91.74407958984375,
+          171.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 4,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -770.7295532226562,
+          -116.27960205078125,
+          69.57013702392578
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 7,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -758.7318725585938,
+          -1767.8023681640625,
+          -129.0015869140625
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 12,
+            "side": "t",
+            "time_label": "1m47s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          396.2065124511719,
+          89.28441619873047,
+          152.65475463867188
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 1,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -840.3751220703125,
+          -1752.6951904296875,
+          -87.37396240234375
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 2,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          687.7925415039062,
+          425.698486328125,
+          125.53890991210938
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 3,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -629.96826171875,
+          -16.97802734375,
+          171.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 4,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1092.9080810546875,
+          -192.50787353515625,
+          103.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 7,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -637.3572998046875,
+          -2233.45458984375,
+          -165.09027099609375
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 12,
+            "side": "t",
+            "time_label": "1m46s",
+            "range_label": "Rounds 1-12 (First Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          654.0504760742188,
+          866.5974731445312,
+          112.48802185058594
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 13,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -913.3796997070312,
+          -169.4029541015625,
+          97.03124237060547
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 14,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          443.3320617675781,
+          109.58039855957031,
+          152.65475463867188
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 15,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          },
+          {
+            "round": 15,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          },
+          {
+            "round": 15,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          435.5423889160156,
+          -100.941162109375,
+          152.65475463867188
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 16,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -904.2875366210938,
+          -177.9776611328125,
+          97.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 17,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          162.6126251220703,
+          -608.6954345703125,
+          172.03125
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 18,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          },
+          {
+            "round": 18,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          },
+          {
+            "round": 18,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          1184.905029296875,
+          -313.07354736328125,
+          106.57929992675781
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 19,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1468.5513916015625,
+          -15.73907470703125,
+          106.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 20,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          89.5302734375,
+          -427.393310546875,
+          182.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 21,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          83.69239044189453,
+          791.086181640625,
+          77.67413330078125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 22,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          611.5634155273438,
+          403.9928894042969,
+          121.39762878417969
+        ],
+        "count": 3,
+        "occurrences": [
+          {
+            "round": 23,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          },
+          {
+            "round": 23,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          },
+          {
+            "round": 23,
+            "side": "ct",
+            "time_label": "1m48s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          1123.638427734375,
+          807.6176147460938,
+          117.23309326171875
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 13,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1122.6495361328125,
+          -218.48846435546875,
+          103.15274047851562
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 14,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          638.2445678710938,
+          179.16558837890625,
+          134.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 16,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -457.1612548828125,
+          -387.175537109375,
+          59.00706481933594
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 17,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          1184.8880615234375,
+          -312.5306396484375,
+          106.75685119628906
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 19,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1560.29931640625,
+          -187.7049560546875,
+          103.18790435791016
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 20,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          312.40716552734375,
+          -416.6588134765625,
+          182.03125
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 21,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          539.9703979492188,
+          841.7356567382812,
+          114.30043029785156
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 22,
+            "side": "ct",
+            "time_label": "1m47s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          1246.594482421875,
+          399.59307861328125,
+          122.30047607421875
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 13,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1200.3955078125,
+          -358.79681396484375,
+          106.24240112304688
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 14,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          743.1908569335938,
+          607.8864135742188,
+          129.06289672851562
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 16,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -181.2508544921875,
+          -735.8585815429688,
+          154.28436279296875
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 17,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          1147.2821044921875,
+          -173.83447265625,
+          122.15254211425781
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 19,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          -1235.8529052734375,
+          -258.77996826171875,
+          106.03124237060547
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 20,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          470.1331787109375,
+          -132.59393310546875,
+          152.95457458496094
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 21,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      },
+      {
+        "position": [
+          672.6746215820312,
+          415.76702880859375,
+          123.54367065429688
+        ],
+        "count": 1,
+        "occurrences": [
+          {
+            "round": 22,
+            "side": "ct",
+            "time_label": "1m46s",
+            "range_label": "Rounds 13-23 (Second Half)"
+          }
+        ]
+      }
+    ]
+  }
+]
