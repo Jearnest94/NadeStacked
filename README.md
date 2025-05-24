@@ -1,1 +1,3 @@
 # NadeStacked
+
+![Screenshot](screenshot.png)
