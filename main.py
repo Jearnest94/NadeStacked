@@ -206,7 +206,7 @@ def analyze_demo(demo_obj, ticks_df, rounds_df, player_name_to_heatmap, demo_pat
                             if 0 <= x_pixel <= 1024 and 0 <= y_pixel <= 1024:
                                 rounds_text = ",".join(round_nums) if len(round_nums) <= 3 else f"{round_nums[0]},+{len(round_nums)-1}"
                                 ax.text(x_pixel, y_pixel, rounds_text, color="white", fontsize=4, ha='center', va='center', fontweight='bold',
-                                        bbox=dict(facecolor='black', alpha=0, pad=0.2, boxstyle='round,pad=0.2'))
+                                        bbox=dict(facecolor='black', alpha=0.0, pad=0.2, boxstyle='round,pad=0.2'))
 
                     heatmap_filename = f"example_outputs/heatmap_{player_name_to_heatmap.replace(' ', '_')}_{range_name}_{time_label_for_file}_{most_common_side}.png"
                     fig.savefig(heatmap_filename)
@@ -225,7 +225,12 @@ def analyze_demo(demo_obj, ticks_df, rounds_df, player_name_to_heatmap, demo_pat
         player_positions_for_range_all_times = []
         sides_for_range_all_times = []
 
-        # Collect all data for this range from all_heatmap_data
+        # Determine the starting round number for this range
+        rounds_slice = range_info["rounds"]
+        if not rounds_slice.empty:
+            first_round_in_range = int(rounds_slice["round_num"].iloc[0])
+        else:
+            first_round_in_range = 1
         for heatmap_data_item in all_heatmap_data:
             if heatmap_data_item["range_name"] == range_name:
                 positions_by_player = heatmap_data_item["positions_by_player"]
@@ -233,12 +238,16 @@ def analyze_demo(demo_obj, ticks_df, rounds_df, player_name_to_heatmap, demo_pat
                     points_with_side_info = positions_by_player.get(player_name_to_heatmap, [])
                     if points_with_side_info:
                         for p_data in points_with_side_info:
+                            original_round_num = p_data[3] if len(p_data) > 3 else 0
+                            # Adjust round number to be 1-based for the current half/overtime
+                            adjusted_round_num = original_round_num - first_round_in_range + 1 if original_round_num >= first_round_in_range else "?"
+
                             player_positions_for_range_all_times.append({
                                 "point": (float(p_data[0]), float(p_data[1]), float(p_data[2])),
                                 "time_label": heatmap_data_item["time_label_for_file"],
                                 "color": heatmap_data_item["color"],
                                 "side": p_data[4] if len(p_data) > 4 else "Unknown",
-                                "round": p_data[3] if len(p_data) > 3 else "?"
+                                "round": adjusted_round_num # Use adjusted round number
                             })
                             if len(p_data) > 4 and p_data[4]:
                                 sides_for_range_all_times.append(p_data[4])
@@ -298,7 +307,7 @@ def analyze_demo(demo_obj, ticks_df, rounds_df, player_name_to_heatmap, demo_pat
                                        ha='center', va='center', 
                                        fontsize=4, fontweight='bold',
                                        color='white', 
-                                       bbox=dict(boxstyle='round,pad=0.1', facecolor='black', alpha=0))
+                                       bbox=dict(boxstyle='round,pad=0.2', facecolor='black', alpha=0.0))
 
             # Position legend inside the plot area
             ax.legend(title="Timestamps", loc="upper left", framealpha=0.8, fontsize=8)
